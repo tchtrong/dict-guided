@@ -1,0 +1,8 @@
+build
+*.egg*
+vietnamese*
+datasets/vintext
+trained_model.pth
+sample_*
+__pycache__
+*.so
